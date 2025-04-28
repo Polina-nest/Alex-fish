@@ -1,0 +1,1143 @@
+  .nastr{
+                position: absolute;
+			 	top:30px;
+		left:1500px;}
+		
+		.invert img {
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+}
+.psc {
+
+  height: 100px;
+  width: 100px;
+
+  overflow: hidden;
+   
+  
+}
+
+.invert img:hover {
+  -webkit-filter: invert(100%); 
+}
+
+   .avalk{
+   position: absolute;
+			 	top:70px;
+		left:20px;
+  }   
+     .izm{
+   position: absolute;
+			 	top:250px;
+		left:20px;
+  }
+  
+  .izmlk{
+  position: absolute;
+			 	top:10px;
+		left:180px;
+		  text-shadow: 1px 1px 2px black, 0 0 1em red; /* Параметры тени */
+    color: white; /* Белый цвет текста */
+    font-size: 1.6em; /* Размер надписи */
+  }
+.fo-inner input, .fo-inner textarea {
+   display: block;
+   width: 100%;
+   padding: 0 20px;
+   margin-bottom: 10px;
+   background: #FFFFFF;
+   line-height: 40px;
+   border-width: 1px;
+   border-radius: 20px;
+  font-family:'Roboto Light Oblique', 'Roboto Light', 'Roboto Regular', 'Roboto', sans-serif;
+  
+}
+  .form_izm{
+ 
+     position: absolute;
+			 	top:70px;
+		left:180px;
+  }
+  		
+.izm_phot{
+		position: absolute;
+			 	top:350px;
+		left:150px;}  
+		
+  
+  	.izm_pass{ position: absolute;
+			 	top:350px;
+		left:-100px;}  
+		
+		
+		.st_pass{
+		 position: absolute;
+			 	top:190px;
+		left:100px;
+		
+		
+		}
+
+		
+   .namelk{
+   position: absolute;
+			 	top:100px;
+		left:180px;
+   
+  text-shadow: 1px 1px 2px black, 0 0 1em red; /* Параметры тени */
+    color: white; /* Белый цвет текста */
+    font-size: 1.2em; /* Размер надписи */}
+    
+    
+      .tellk{
+   position: absolute;
+			 	top:130px;
+		left:180px;
+   text-shadow: 1px 1px 2px black, 0 0 1em red; /* Параметры тени */
+    color: white; /* Белый цвет текста */
+    font-size: 1.2em; /* Размер надписи */}  
+    
+   .emaillk{
+   position: absolute;
+			 	top:160px;
+		left:180px;
+  text-shadow: 1px 1px 2px black, 0 0 1em red; /* Параметры тени */
+    color: white; /* Белый цвет текста */
+    font-size: 1.2em; /* Размер надписи */} 
+    
+   .yrlk{
+   position: absolute;
+			 	top:190px;
+		left:180px;
+  text-shadow: 1px 1px 2px black, 0 0 1em red; /* Параметры тени */
+    color: white; /* Белый цвет текста */
+    font-size: 1.2em; /* Размер надписи */}
+         
+         
+         .button2{text-decoration:none; text-align:center; 
+ padding:15px 32px; 
+ border:none; 
+ -webkit-border-radius:25px;
+ -moz-border-radius:25px; 
+ border-radius: 25px; 
+ font:18px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+ font-weight:bold; 
+ color:#ffffff; 
+ background-color:#ffffff; 
+ background-image: -moz-linear-gradient(top, #ffffff 0%, #a5b3b8 100%); 
+ background-image: -webkit-linear-gradient(top, #ffffff 0%, #a5b3b8 100%); 
+ background-image: -o-linear-gradient(top, #ffffff 0%, #a5b3b8 100%); 
+ background-image: -ms-linear-gradient(top, #ffffff 0% ,#a5b3b8 100%); 
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a5b3b8', endColorstr='#a5b3b8',GradientType=0 ); 
+ background-image: linear-gradient(top, #ffffff 0% ,#a5b3b8 100%);   
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 7px #fc0000; 
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 7px #fc0000;  
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 7px #fc0000;  
+
+  
+ text-shadow: 2px 1px 3px #ff0000; 
+ filter: dropshadow(color=#ff0000, offx=2, offy=1);}
+ 
+ 
+ .button:active{
+ padding:15px 32px; 
+ border:none; 
+ -webkit-border-radius:25px;
+ -moz-border-radius:25px; 
+ border-radius: 25px; 
+ font:10px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+ font-weight:bold; 
+ color:#ffffff; 
+ background-color:#ffffff; 
+ background-image: -moz-linear-gradient(top, #ffffff 0%, #a5b3b8 100%); 
+ background-image: -webkit-linear-gradient(top, #ffffff 0%, #a5b3b8 100%); 
+ background-image: -o-linear-gradient(top, #ffffff 0%, #a5b3b8 100%); 
+ background-image: -ms-linear-gradient(top, #ffffff 0% ,#a5b3b8 100%); 
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a5b3b8', endColorstr='#a5b3b8',GradientType=0 ); 
+ background-image: linear-gradient(top, #ffffff 0% ,#a5b3b8 100%);   
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 7px #fc0000; 
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 7px #fc0000;  
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 7px #fc0000;  
+  
+ text-shadow: 2px 2px 2px #ff0000; 
+ filter: dropshadow(color=#ff0000, offx=2, offy=2);}
+ 
+                 .button1{display: block;
+   width: 100%;
+   padding: 0 10px;
+   margin-bottom: 0px;
+   background: #FFFFFF;
+   line-height: 40px;
+   border-width: 1px;
+   border-radius: 20px;
+  font-family:'Roboto Light Oblique', 'Roboto Light', 'Roboto Regular', 'Roboto', sans-serif;
+                }
+         .izm2{
+		position: absolute;
+			 	top:330px;
+		left:150px;}  
+         
+            .mag{
+            
+      	
+		position:absolute;
+top:80px;
+left:620px;
+}
+
+.log_mag{position:absolute;
+top:-12px;
+left:240px;}
+
+.teg{
+    top:-20px;
+    position:absolute;
+    left:130px;
+    text-shadow: 1px 1px 2px black, 0 0 1em red; /* Параметры тени */
+    color: #FFFFFF; /* Белый цвет текста */
+    font-size: 1.7em; /* Размер надписи */
+}
+  .lok{
+
+		position:absolute;
+top:-250px;
+left:-200px;
+}
+
+.nad2{
+width:120px;
+    height: 20px;
+  
+    position:absolute;
+    left:130px;
+    text-shadow: 1px 1px 2px black, 0 0 1em red; /* Параметры тени */
+    color: #FFFFFF; /* Белый цвет текста */
+    font-size: 1.7em; /* Размер надписи */
+}
+
+ .btn {
+ opacity: 0.0;
+ z-index:10;
+ left:100px;
+ position:absolute;
+top:-15px;
+width:140px;
+    height: 20px;
+    display: inline-block; /* Строчно-блочный элемент */
+    background: #8C959D; /* Серый цвет фона */
+    color: #fff; /* Белый цвет текста */
+    padding: 1rem 1.5rem; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 3px; /* Скругляем уголки */
+   }
+.rib{
+ top:-640px;
+    position:absolute;
+    left:-300px;
+
+}
+.riba{
+ top:-px;
+    position:absolute;
+    left:240px;
+
+}
+ .btn2 {
+ opacity: 0.0;
+ z-index:10;
+ position:absolute;
+
+width:140px;
+    height: 20px;
+    display: inline-block; /* Строчно-блочный элемент */
+    background: #8C959D; /* Серый цвет фона */
+    color: #fff; /* Белый цвет текста */
+    padding: 1rem 1.5rem; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 3px; /* Скругляем уголки */
+   }
+   
+   
+   .fon_per{
+   border: 1px solid #1A1A1A;
+    opacity: 0.5;
+    background: #FFFFFF;
+   width:90px;
+    height: 90px;
+    top:0px;
+    position:absolute;
+    left:30px;}
+   
+      
+   .kol_per{
+   top:70px;
+   position:absolute;
+   left:100px;
+   z-index:10;}
+   
+   
+   .per{
+   top:5px;
+    position:absolute;
+    left:25px;
+    z-index:10;
+   }
+   
+      .fon_vtor{
+   border: 1px solid #1A1A1A;
+    opacity: 0.5;
+    background: #FFFFFF;
+   width:90px;
+    height: 90px;
+    top:0px;
+    position:absolute;
+    left:130px;}
+   
+      
+   .kol_vtor{
+   top:70px;
+   position:absolute;
+   left:210px;
+   z-index:10;}
+   
+   
+   .vtor{
+   top:5px;
+    position:absolute;
+    left:125px;
+    z-index:10;
+   }
+   
+      .fon_tr{
+   border: 1px solid #1A1A1A;
+    opacity: 0.5;
+    background: #FFFFFF;
+   width:90px;
+    height: 90px;
+    top:0px;
+    position:absolute;
+    left:230px;}
+   
+      
+   .kol_tr{
+   top:70px;
+   position:absolute;
+   left:310px;
+   z-index:10;}
+   
+   
+   .tr{
+   top:5px;
+    position:absolute;
+    left:227px;
+    z-index:10;
+   }
+   
+   
+         .fon_chet{
+   border: 1px solid #1A1A1A;
+    opacity: 0.5;
+    background: #FFFFFF;
+   width:90px;
+    height: 90px;
+    top:0px;
+    position:absolute;
+    left:330px;}
+   
+      
+   .kol_chet{
+   top:70px;
+   position:absolute;
+   left:410px;
+   z-index:10;}
+   
+   
+   .chet{
+   top:5px;
+    position:absolute;
+    left:337px;
+    z-index:10;
+   }
+   
+   
+            .fon_pat{
+   border: 1px solid #000057;
+    opacity: 0.5;
+    background: #FFFFFF;
+   width:90px;
+    height: 90px;
+    top:220px;
+    position:absolute;
+    left:55px;}
+   
+      
+   .kol_pat{
+   top:290px;
+   position:absolute;
+   left:135px;
+   z-index:10;}
+   
+   
+   .pat{
+   top:235px;
+    position:absolute;
+    left:55px;
+    z-index:10;
+   }
+   
+   
+           .fon_shect{
+   border: 1px solid #000057;
+    opacity: 0.5;
+    background: #FFFFFF;
+   width:90px;
+    height: 90px;
+    top:220px;
+    position:absolute;
+    left:155px;}
+   
+      
+   .kol_shect{
+   top:290px;
+   position:absolute;
+   left:235px;
+   z-index:10;}
+   
+   
+   .sem{
+   top:235px;
+    position:absolute;
+    left:155px;
+    z-index:10;
+   }
+    
+            .fon_sem{
+   border: 1px solid #000057;
+    opacity: 0.5;
+    background: #FFFFFF;
+   width:90px;
+    height: 90px;
+    top:220px;
+    position:absolute;
+    left:255px;}
+   
+      
+   .kol_sem{
+   top:290px;
+   position:absolute;
+   left:335px;
+   z-index:10;}
+   
+   
+      .vosem{
+   top:235px;
+    position:absolute;
+    left:155px;
+    z-index:10;
+   }
+    
+            .fon_vosem{
+   border: 1px solid #000057;
+    opacity: 0.5;
+    background: #FFFFFF;
+   width:90px;
+    height: 90px;
+    top:320px;
+    position:absolute;
+    left:100px;}
+   
+      
+   .kol_vosem{
+   top:390px;
+   position:absolute;
+   left:180px;
+   z-index:10;}
+   
+   
+      
+      .devat{
+   top:235px;
+    position:absolute;
+    left:255px;
+    z-index:10;
+   }
+    
+            .fon_devat{
+   border: 1px solid #000057;
+    opacity: 0.5;
+    background: #FFFFFF;
+   width:90px;
+    height: 90px;
+    top:320px;
+    position:absolute;
+    left:200px;}
+   
+      
+   .kol_devat{
+   top:390px;
+   position:absolute;
+   left:280px;
+   z-index:10;}
+   
+   .shect{
+   top:335px;
+    position:absolute;
+    left:100px;
+    z-index:10;
+   }
+    
+    
+    
+.lok1{
+ top:400px;
+    position:absolute;
+    left:1400px;}
+    
+    .lok1_txt{
+    top:370px;
+    position:absolute;
+    left:1330px;
+     text-shadow: 1px 1px 2px black, 0 0 1em #0000FF; /* Параметры тени */
+    color: #FFFFFF; /* Белый цвет текста */
+    font-size: 1.1em; /* Размер надписи */}
+
+ .btn3 {
+  left:1320px;
+ opacity: 0.0;
+ z-index:10;
+ position:absolute;
+top:350px;
+width:100px;
+    height: 100px;
+    display: inline-block; /* Строчно-блочный элемент */
+    background: #8C959D; /* Серый цвет фона */
+    color: #fff; /* Белый цвет текста */
+    padding: 1rem 1.5rem; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 3px; /* Скругляем уголки */
+   }
+
+.lok2{ top:500px;
+    position:absolute;
+    left:1000px;}
+    
+    
+    
+    .lok2_txt{
+    top:460px;
+    position:absolute;
+    left:950px;
+     text-shadow: 1px 1px 2px black, 0 0 1em #0000FF; /* Параметры тени */
+    color: #FFFFFF; /* Белый цвет текста */
+    font-size: 1.1em; /* Размер надписи */}
+
+.lok3{ top:700px;
+    position:absolute;
+    left:1200px;}
+    
+    
+    
+    .lok3_txt{
+    top:660px;
+    position:absolute;
+    left:1165px;
+     text-shadow: 1px 1px 2px black, 0 0 1em #0000FF; /* Параметры тени */
+    color: #FFFFFF; /* Белый цвет текста */
+    font-size: 1.1em; /* Размер надписи */}
+    
+    
+    
+   .lok4{ top:720px;
+    position:absolute;
+    left:765px;}
+    
+    
+    
+    .lok4_txt{
+    top:680px;
+    position:absolute;
+    left:720px;
+     text-shadow: 1px 1px 2px black, 0 0 1em #0000FF; /* Параметры тени */
+    color: #FFFFFF; /* Белый цвет текста */
+    font-size: 1.1em; /* Размер надписи */}
+
+.lok5{ top:500px;
+    position:absolute;
+    left:250px;}
+    
+    
+    
+.lok5_txt{
+    top:460px;
+    position:absolute;
+    left:200px;
+     text-shadow: 1px 1px 2px black, 0 0 1em #0000FF; /* Параметры тени */
+    color: #FFFFFF; /* Белый цвет текста */
+    font-size: 1.1em; /* Размер надписи */}
+
+
+.lok6{ top:400px;
+    position:absolute;
+    left:570px;}
+    
+    
+    
+    .lok6_txt{
+    top:365px;
+    position:absolute;
+    left:510px;
+     text-shadow: 1px 1px 2px black, 0 0 1em #0000FF; /* Параметры тени */
+    color: #FFFFFF; /* Белый цвет текста */
+    font-size: 1.1em; /* Размер надписи */}
+    
+    .sadok{
+    z-index:100;
+    top:770px;
+    position:absolute;
+    left:100px;
+    }
+
+ .sa3{
+   top:235px;
+    position:absolute;
+    left:255px;
+    z-index:10;
+   }
+    
+            .fon_sa3{
+   border: 1px solid #000057;
+    opacity: 0.5;
+    background: #FFFFFF;
+   width:80px;
+    height: 80px;
+    top:320px;
+    position:absolute;
+    left:200px;}
+   
+      
+   .kol_sa3{
+   top:380px;
+   position:absolute;
+   left:270px;
+   z-index:10;}
+
+ .sa4{
+   top:435px;
+    position:absolute;
+    left:355px;
+    z-index:10;
+   }
+    
+            .fon_sa4{
+   border: 1px solid #000057;
+    opacity: 0.5;
+    background: #FFFFFF;
+   width:80px;
+    height: 80px;
+    top:320px;
+    position:absolute;
+    left:300px;}
+   
+      
+   .kol_sa4{
+   top:380px;
+   position:absolute;
+   left:370px;
+   z-index:10;}
+
+ .sa1{
+   top:335px;
+    position:absolute;
+    left:255px;
+    z-index:10;
+   }
+    
+            .fon_sa1{
+   border: 1px solid #000057;
+    opacity: 0.5;
+    background: #FFFFFF;
+   width:80px;
+    height: 80px;
+    top:420px;
+    position:absolute;
+    left:200px;}
+   
+      
+   .kol_sa1{
+   top:480px;
+   position:absolute;
+   left:270px;
+   z-index:10;}
+   
+   
+   
+
+ .sa2{
+   top:335px;
+    position:absolute;
+    left:355px;
+    z-index:10;
+   }
+    
+            .fon_sa2{
+   border: 1px solid #000057;
+    opacity: 0.5;
+    background: #FFFFFF;
+   width:80px;
+    height: 80px;
+    top:420px;
+    position:absolute;
+    left:300px;}
+   
+      
+   .kol_sa2{
+   top:480px;
+   position:absolute;
+   left:370px;
+   z-index:10;}
+
+ .sa5{
+   top:235px;
+    position:absolute;
+    left:305px;
+    z-index:10;
+   }
+    
+            .fon_sa5{
+   border: 1px solid #000057;
+    opacity: 0.5;
+    background: #FFFFFF;
+   width:80px;
+    height: 80px;
+    top:220px;
+    position:absolute;
+    left:250px;}
+   
+      
+   .kol_sa5{
+   top:280px;
+   position:absolute;
+   left:320px;
+   z-index:10;}
+
+  .karta{
+     top:20px;
+   position:absolute;
+   left:500px;
+  }
+.dropbtn {
+
+    color: white;
+ 
+    font-size: 16px;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+   background-image: url("../game/derevo_fon.png");
+    min-width: 140px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+  text-shadow: 1px 1px 2px black, 0 0 1em red; /* Параметры тени */
+    color: #FFFFFF; /* Белый цвет текста */
+    font-size: 1.2em; /* Размер надписи */
+ 
+    text-decoration: none;
+    display: block;
+}
+
+
+
+.dropdown:hover .dropdown-content {display: block;}
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+      -ms-box-sizing: border-box;
+          box-sizing: border-box;
+}
+ 
+
+ 
+.pic {
+
+  width: 120px; 
+  height: 120px; border-radius: 100px;
+  overflow: hidden;
+   
+  -webkit-box-shadow: 5px 5px 5px #111;
+          box-shadow: 5px 5px 5px #111;  
+}
+/*GROW*/
+.grow img {
+  height: 120px;
+  width: 120px;
+ 
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+}
+ 
+.grow img:hover {
+  width: 220px;
+  height: 220px;
+}
+
+
+.tilt {
+  -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+}
+.tilt:hover {
+  -webkit-transform: rotate(-10deg);
+     -moz-transform: rotate(-10deg);
+       -o-transform: rotate(-10deg);
+      -ms-transform: rotate(-10deg);
+          transform: rotate(-10deg);
+}
+
+ .pac {
+
+  width: 120px; 
+  height: 120px;
+  overflow: hidden;
+ }
+ 
+ 
+ 
+
+ 
+ 
+ .ydocha{
+    top:580px;
+   position:absolute;
+   left:1350px;
+ }
+ 
+ 
+ 
+       .fon_yd1_kat{
+       
+       
+   border: 1px solid #000057;
+    opacity: 0.5;
+    background: #FFFFFF;
+   width:60px;
+    height: 60px;
+    top:400px;
+    position:absolute;
+    left:300px;
+}
+
+
+ .yd1_kat{
+
+    top:405px;
+    position:absolute;
+    left:290px;
+}
+
+
+.kat1{
+top:130px;
+    position:absolute;
+    left:142px;
+     z-index:10;
+}
+.fon_kat1{
+   border: 1px solid #000057;
+    opacity: 0.2;
+    background: #FFFFFF;
+   width:65px;
+    height: 65px;
+    top:120px;
+    position:absolute;
+    left:147px;
+}
+
+
+.kat2{
+top:130px;
+    position:absolute;
+    left:222px;
+     z-index:10;
+}
+.fon_kat2{
+   border: 1px solid #000057;
+    opacity: 0.2;
+    background: #FFFFFF;
+   width:65px;
+    height: 65px;
+    top:120px;
+    position:absolute;
+    left:227px;
+
+}
+.kat3{
+top:130px;
+    position:absolute;
+    left:302px;
+     z-index:10;
+}
+.fon_kat3{
+   border: 1px solid #000057;
+    opacity: 0.2;
+    background: #FFFFFF;
+   width:65px;
+    height: 65px;
+    top:120px;
+    position:absolute;
+    left:307px;
+
+}
+.kat4{
+top:130px;
+    position:absolute;
+    left:382px;
+     z-index:10;
+}
+.fon_kat4{
+   border: 1px solid #000057;
+    opacity: 0.2;
+    background: #FFFFFF;
+   width:65px;
+    height: 65px;
+    top:120px;
+    position:absolute;
+    left:387px;
+
+}
+
+.kat5{
+top:193px;
+    position:absolute;
+    left:142px;
+     z-index:10;
+}
+.fon_kat5{
+   border: 1px solid #000057;
+    opacity: 0.2;
+    background: #FFFFFF;
+   width:65px;
+    height: 65px;
+    top:193px;
+    position:absolute;
+    left:147px;
+
+}
+
+.kat6{
+top:193px;
+    position:absolute;
+    left:222px;
+     z-index:10;
+}
+.fon_kat6{
+   border: 1px solid #000057;
+    opacity: 0.2;
+    background: #FFFFFF;
+   width:65px;
+    height: 65px;
+    top:193px;
+    position:absolute;
+    left:227px;
+
+}
+
+.kat7{
+top:193px;
+    position:absolute;
+    left:302px;
+     z-index:10;
+}
+.fon_kat7{
+   border: 1px solid #000057;
+    opacity: 0.2;
+    background: #FFFFFF;
+   width:65px;
+    height: 65px;
+    top:193px;
+    position:absolute;
+    left:307px;
+
+}
+
+.kat8{
+top:193px;
+    position:absolute;
+    left:382px;
+     z-index:10;
+}
+.fon_kat8{
+   border: 1px solid #000057;
+    opacity: 0.2;
+    background: #FFFFFF;
+   width:65px;
+    height: 65px;
+    top:193px;
+    position:absolute;
+    left:387px;
+
+}
+
+.kat9{
+top:271px;
+    position:absolute;
+    left:142px;
+     z-index:10;
+}
+.fon_kat9{
+   border: 1px solid #000057;
+    opacity: 0.2;
+    background: #FFFFFF;
+   width:65px;
+    height: 65px;
+    top:271px;
+    position:absolute;
+    left:147px;
+
+}
+
+.kat10{
+top:271px;
+    position:absolute;
+    left:222px;
+     z-index:10;
+}
+.fon_kat10{
+   border: 1px solid #000057;
+    opacity: 0.2;
+    background: #FFFFFF;
+   width:65px;
+    height: 65px;
+    top:271px;
+    position:absolute;
+    left:227px;
+
+}
+
+.kat11{
+top:271px;
+    position:absolute;
+    left:302px;
+     z-index:10;
+}
+.fon_kat11{
+   border: 1px solid #000057;
+    opacity: 0.2;
+    background: #FFFFFF;
+   width:65px;
+    height: 65px;
+    top:271px;
+    position:absolute;
+    left:307px;
+
+}
+
+.kat12{
+top:271px;
+    position:absolute;
+    left:382px;
+     z-index:10;
+}
+.fon_kat12{
+   border: 1px solid #000057;
+    opacity: 0.2;
+    background: #FFFFFF;
+   width:65px;
+    height: 65px;
+    top:271px;
+    position:absolute;
+    left:387px;
+
+}
+
+.kat13{
+top:349px;
+    position:absolute;
+    left:142px;
+     z-index:10;
+}
+.fon_kat13{
+   border: 1px solid #000057;
+    opacity: 0.2;
+    background: #FFFFFF;
+   width:65px;
+    height: 65px;
+    top:349px;
+    position:absolute;
+    left:147px;
+
+}
+
+.kat14{
+top:349px;
+    position:absolute;
+    left:222px;
+     z-index:10;
+}
+.fon_kat14{
+   border: 1px solid #000057;
+    opacity: 0.2;
+    background: #FFFFFF;
+   width:65px;
+    height: 65px;
+    top:349px;
+    position:absolute;
+    left:227px;
+
+}
+
+.kat15{
+top:349px;
+    position:absolute;
+    left:302px;
+     z-index:10;
+}
+.fon_kat15{
+   border: 1px solid #000057;
+    opacity: 0.2;
+    background: #FFFFFF;
+   width:65px;
+    height: 65px;
+    top:349px;
+    position:absolute;
+    left:307px;
+
+}
+
+.kat16{
+top:349px;
+    position:absolute;
+    left:382px;
+     z-index:10;
+}
+.fon_kat16{
+   border: 1px solid #000057;
+    opacity: 0.2;
+    background: #FFFFFF;
+   width:65px;
+    height: 65px;
+    top:349px;
+    position:absolute;
+    left:387px;
+
+}

@@ -1,0 +1,156 @@
+
+html, body {
+  height: 100%;
+}
+
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  position: relative;
+
+
+  font-family: Open Sans, Arial, sans-serif;
+  font-size: 1.3em;
+}
+
+
+.login-form {
+  width: 100%;
+  padding: 2em;
+  position: relative;
+  border-radius: 3px;
+   /*border: 1px solid #ADD8E6;
+
+ background: #bc3220;
+  background: -webkit-gradient(left top, right top, color-stop(0%, #42B5DB), color-stop(29%, #1090B9), color-stop(50%, #52C5F5), color-stop(71%, #5BA5EE), color-stop(100%, #8CC6FF));
+  background: -webkit-linear-gradient(left, #3F3FBB 0%, #8F8FFF 29%, #5F90EE 50%, #7A7AFF 71%, #6666E4 100%);
+  background: linear-gradient(to right,#60E760 0%, #6AD46A 29%, #8FFF7E 50%, #52E352 71%, #90EE90 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#008000', endColorstr='#90EE90', GradientType=1 );*/
+}
+.login-form:before {
+  content: '';
+  position: absolute;
+  top: -2px;
+  left: 0;
+  height: 2px;
+  width: 100%;
+}
+@media screen and (min-width: 600px) {
+  .login-form {
+    width: 50vw;
+    max-width: 15em;
+  }
+}
+
+.flex-row {
+  margin-bottom: 1em;
+}
+
+.logo {
+  margin-bottom: 50px;
+  color: #fff;
+  width: 100%;
+}
+
+.logo h1 {
+  text-align: center;
+  font-size: 45px;
+  font-weight: 900;
+  text-shadow: -1px -2px #000093, 0 1px 0 #ADD8E6;
+}
+
+.lf--input {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  padding: 1em 2em;
+ border: 5px double #440080; /* Параметры границы */
+/* Цвет фона */
+    padding: 10px; 
+  width: 100%;
+  box-sizing: border-box;
+  color: #ffffff;
+  font-size: 0.8rem;
+  font-family: Open Sans, Arial, sans-serif;
+  text-shadow: 1px 1px 1px #232323;
+  border-radius: 25px;
+  background: #ADD8E6;
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, #bc3220), color-stop(100%, #fa5846));
+  background: -webkit-linear-gradient(top, #bc3220 0%, #fa5846 100%);
+  background: linear-gradient(to bottom, #6B6BDC 0%, #79C3DB 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6EB2F5', endColorstr='#54BBEA', GradientType=0 );
+}
+.lf--input:focus {
+  outline: none;
+  -webkit-transition: -webkit-transform .15s ease;
+  transition: -webkit-transform .15s ease;
+  transition: transform .15s ease;
+  transition: transform .15s ease, -webkit-transform .15s ease;
+  -webkit-transform: scale(1.02);
+          transform: scale(1.02);
+}
+
+.lf--submit {
+  display: block;
+  padding: 0.5em;
+  width: 100%;
+  box-shadow: 0px 7px 16px -3px rgba(0, 0, 0, 0.5);
+  background: #ffbf00;
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, #87D77C), color-stop(100%, #7AFA17));
+  background: -webkit-linear-gradient(top, #76BBFF 0%, #6E6EFF 100%);
+  background: linear-gradient(to bottom, #7BD7F5 0%, #89C5FF 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ABABFF', endColorstr='#99FF99', GradientType=0 );
+  border: 0;
+  border-radius: 30px;
+  color: #fff;
+  margin-top: 50px;
+  cursor: pointer;
+  font-size: 1.5em;
+  font-weight: 500;
+  text-shadow: -1px -1px #008000, 0 1px 0 #90EE90;
+}
+.lf--submit:focus {
+  outline: none;
+  -webkit-transition: -webkit-transform .15s ease;
+  transition: -webkit-transform .15s ease;
+  transition: transform .15s ease;
+  transition: transform .15s ease, -webkit-transform .15s ease;
+  -webkit-transform: scale(1.02);
+          transform: scale(1.02);
+}
+
+.lf--forgot {
+  margin-top: 2em;
+  color: #ffffff;
+  font-size:10px;
+  text-align: center;
+  float: left;
+}
+
+::-webkit-input-placeholder {
+  color: #ffffff;
+}
+
+::-moz-placeholder {
+  color: #ffffff;
+}
+
+:-ms-input-placeholder {
+  color: #ffffff;
+}
+
+::placeholder {
+  color: #ffffff;
+}
+

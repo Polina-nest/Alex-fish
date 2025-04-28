@@ -1,0 +1,97 @@
+
+   .mark{
+       
+       top: 450px;
+       left:800px;
+      position: fixed;
+		 
+   }
+   .mark_mag{
+       
+       top: 280px;
+      left:1100px;
+      position: fixed;
+		  z-index:1000; 
+   }
+   
+   
+   table {
+font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+text-align: left;
+border-collapse: separate;
+border-spacing: 5px;
+background: #ECE9E0;
+color: #656665;
+border: 16px solid #ECE9E0;
+border-radius: 20px;
+ opacity: 0.7;
+}
+th {
+font-size: 18px;
+padding: 10px;
+}
+td {
+background: #B6F6E0;
+padding: 10px;
+} 
+ h2 {color: #fff;
+     text-shadow: 0px 3px 0px #1A1A1A,
+             0px 14px 10px rgba(0,0,0,0.15),
+             0px 24px 2px rgba(0,0,0,0.1),
+             0px 34px 30px rgba(0,0,0,0.1);}
+
+
+    .te{top:420px;
+      position: fixed;}
+    .te1{top:250px;
+      position: fixed;}
+    
+    a.button9 {
+  position: relative;
+  display: inline-block;
+  color: #777674;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: rgba(255,255,255,.5) 1px 1px, rgba(100,100,100,.3) 3px 7px 3px;
+  user-select: none;
+  padding:28px 28px;
+  outline: none;
+  border-radius: 3px / 100%;
+  background-image:
+   linear-gradient(45deg, rgba(255,255,255,.0) 30%, rgba(255,255,255,.8), rgba(255,255,255,.0) 70%),
+   linear-gradient(to right, rgba(255,255,255,1), rgba(255,255,255,0) 20%, rgba(255,255,255,0) 90%, rgba(255,255,255,.3)),
+   linear-gradient(to right, rgba(125,125,125,1), rgba(255,255,255,.9) 45%, rgba(125,125,125,.5)),
+   linear-gradient(to right, rgba(125,125,125,1), rgba(255,255,255,.9) 45%, rgba(125,125,125,.5)),
+   linear-gradient(to right, rgba(223,190,170,1), rgba(255,255,255,.9) 45%, rgba(223,190,170,.5)),
+   linear-gradient(to right, rgba(223,190,170,1), rgba(255,255,255,.9) 45%, rgba(223,190,170,.5));
+  background-repeat: no-repeat;
+  background-size: 200% 100%, auto, 100% 2px, 100% 2px, 100% 1px, 100% 1px;
+  background-position: 200% 0, 0 0, 0 0, 0 100%, 0 4px, 0 calc(100% - 4px);
+  box-shadow: rgba(0,0,0,.5) 3px 10px 10px -10px;
+}
+a.button9:hover {
+  transition: .5s linear;
+  background-position: -200% 0, 0 0, 0 0, 0 100%, 0 4px, 0 calc(100% - 4px);
+}
+a.button9:active {
+  top: 1px;
+}
+.kn1{top:593px;
+     left:129px;
+      position:absolute;}
+.kn2{top:430px;
+     left:221px;
+      position:absolute;}
+.kn3{top:666px;
+     left:224px;
+      position:absolute ;}
+.kn4{top:277px;
+     left:492px;
+      position:absolute ;}
+.kn5{top:168px;
+     left:600px;
+      position:absolute ;}
+
+.kn6{top:56px;
+     left:668px;
+      position:absolute ;}

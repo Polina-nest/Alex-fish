@@ -1,0 +1,143 @@
+body{
+	background:#62A162;
+	}
+	.fon{
+		position:absolute; /* добавили */
+	bottom:0; }
+	
+	
+	#meny{
+	background-image: url("../game/derevo_fon.png");
+	height: 160px;
+	width: 1659px;
+	position:fixed;
+top:0px;
+
+	border: 1px solid black;}
+	.ava{
+		
+
+		z-index:10;
+		position:absolute;
+		left:30px;
+		top:20px;
+		}
+	.nam{
+		
+		z-index:10;
+		position:absolute;
+		left:170px;
+		top:90px;
+	text-shadow: 1px 1px 2px black, 0 0 1em red; /* Параметры тени */
+    color: white; /* Белый цвет текста */
+    font-size: 1.6em; /* Размер надписи */}
+
+.obloshka{
+	
+		top:15px;
+		left:20px;
+		border-radius: 100px; 
+		 position: absolute;
+	opacity: 0.4;
+	border-width:10px;
+    width:400px;
+    height: 130px;
+    background: #E5E5E5;}
+    
+.str{	z-index:10;
+		top:120px;
+		left:170px;
+		border-radius: 100px; 
+		 position: absolute;
+
+ border: 1px solid #4D4D4D;
+	
+    width:100px;
+    height: 10px;
+    background: #E5E5E5;}
+   
+    .cifr{	z-index:10;
+		top:110px;
+		left:280px;
+		border-radius: 100px; 
+		 position: absolute;
+
+ border: 1px solid #55D733;
+	
+    width:30px;
+    height: 30px;
+    background: #548D54;}
+    .c{
+     position: absolute;
+left:8px;
+    text-shadow: 1px 1px 2px black, 0 0 1em red; /* Параметры тени */
+    color: white; /* Белый цвет текста */
+    font-size: 1.6em; /* Размер надписи */
+    }
+    
+    .table {
+		left:200px;
+		z-index:100;
+top:800px;
+
+	position: absolute;	
+    table-layout: fixed; /* Фиксированная ширина ячеек */
+    width: 300px; /* Ширина таблицы */
+   }
+    .table td {
+	border: 1px solid #dddddd;
+	padding: 5px;
+}
+
+
+.rykzak{
+ 	z-index:100;
+	top:700px;
+		left:1480px;
+		
+		 position: absolute;}
+		 
+		 
+.invent{
+			  position: absolute;
+			 	top:10px;
+		left:240px;}
+		
+.invent p{	text-shadow: 1px 1px 2px black, 0 0 1em red; /* Параметры тени */
+    color: white; /* Белый цвет текста */
+    font-size: 1.6em; /* Размер надписи */}
+    
+    .in{
+		  position: absolute;
+			 	top:80px;
+		left:80px;
+		}
+		
+
+		
+.man{
+z-index:10;
+		position:absolute;
+		left:170px;
+		top:50px;
+	text-shadow: 1px 1px 2px black, 0 0 1em red; /* Параметры тени */
+    color: white; /* Белый цвет текста */
+    font-size: 1.2em; /* Размер надписи */}
+}
+
+
+.mag{
+            
+      	z-index:10;
+		position:absolute;
+top:-650px;
+left:-500px;
+}
+.teg{
+    top:-20px;
+    position:absolute;
+    left:20px;
+    text-shadow: 1px 1px 2px black, 0 0 1em red; /* Параметры тени */
+    color: #FFFFFF; /* Белый цвет текста */
+    font-size: 1.2em; /* Размер надписи */
+}

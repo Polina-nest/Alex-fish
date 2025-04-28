@@ -1,0 +1,577 @@
+body{
+	background:#629DA1;
+	}
+	
+	#fon{
+	
+		position:fixed; /* добавили */
+	bottom:0; 
+	top:0px;
+	}
+	
+	
+	#meny{
+	background-image: url("../game/derevo_fon.png");
+	height: 125px;
+	width: 1659px;
+	position:fixed;
+top:0px;
+
+	border: 1px solid black;}
+	
+	.na_basy{
+			position:absolute; /* добавили */
+
+	left:1400px;
+	top:5px;
+	}
+	
+		.earth
+	{
+
+		position:absolute;
+		width: 120px;
+		height: 120px;
+		top: -10px;
+		left:-10px;
+ }
+
+	
+	.yd1{
+		position:absolute; /* добавили */
+	z-index:10;
+	left:300px;
+	top:5px;
+	}
+	
+	
+		.yd1_vnut{
+		position:absolute; /* добавили */
+	top:13px;
+		left:15px;
+		border-radius: 100px; 
+		 position: absolute;
+	opacity: 0.6;
+	border-width:10px;
+    width:90px;
+    height:90px;
+    background: #E8DDC7;
+	}
+	
+
+
+	.yd2{
+		position:absolute; /* добавили */
+	z-index:10;
+	left:450px;
+	top:5px;
+	}
+	
+	
+		.yd2_vnut{
+		position:absolute; /* добавили */
+	top:13px;
+		left:15px;
+		border-radius: 100px; 
+		 position: absolute;
+	opacity: 0.6;
+	border-width:10px;
+    width:90px;
+    height:90px;
+    background: #E8DDC7;
+	}
+		.yd3{
+		position:absolute; /* добавили */
+	z-index:10;
+	left:600px;
+	top:5px;
+	}
+	
+	
+		.yd3_vnut{
+		position:absolute; /* добавили */
+	top:13px;
+		left:15px;
+		border-radius: 100px; 
+		 position: absolute;
+	opacity: 0.6;
+	border-width:10px;
+    width:90px;
+    height:90px;
+    background: #E8DDC7;
+	}
+	
+	
+	.yd1_bd{
+		position:absolute; /* добавили */
+	z-index:100;
+	left:15px;
+	top:10px;
+	
+	}
+	
+		.yd2_bd{
+		position:absolute; /* добавили */
+	z-index:100;
+	left:15px;
+	top:10px;
+	
+	}
+		.yd3_bd{
+		position:absolute; /* добавили */
+	z-index:100;
+	left:15px;
+	top:10px;
+	
+	}
+	
+	
+	.spoiler >  input + .box > blockquote{
+	display: none;
+}
+.spoiler >  input:checked + .box > blockquote {
+	display: block;
+}
+.spoiler > input {
+	display: none;
+	/*visibility: hidden;*/
+}
+
+.spoiler > label{
+z-index:1000;
+	width:120px;
+        height:120px;
+       /* border:red solid 1px;*/
+	display:block;
+	position:absolute;
+	cursor: pointer;
+}
+.spoiler span.close,
+.spoiler span.open{
+	margin-left:12px;
+	color: #00f!important;
+	text-decoration: underline;
+}
+.spoiler >  input +  .box > span.close {
+	display: none;
+}
+.spoiler >  input:checked +  .box > span.close {
+	display: inline;
+}
+.spoiler >  input:checked  + .box > span.open {
+	display: none;
+}
+.spoiler >  input +  .box >  span.open {
+	display: inline;
+}
+
+
+.kryg1{
+	position:absolute; /* добавили */
+	top:13px;
+		left:15px;
+		border-radius: 100px; 
+		 position: absolute;
+	opacity: 0.6;
+	border-width:10px;
+    width:90px;
+    height:90px;
+    background: #A7E1A7;
+}
+
+
+.box4{
+position:absolute; /* добавили */
+	top:400px;
+		left:3px;
+
+}
+
+
+
+
+.box5{
+position:absolute; /* добавили */
+	top:400px;
+		left:300px;
+
+}
+
+
+.box6{
+position:absolute; /* добавили */
+	top:500px;
+		left:600px;
+
+}
+
+
+@keyframes mymove {
+	
+  from {top: 0px;}
+  to {top: 20px;}
+}
+
+
+.yd1_zak{
+	position:absolute; /* добавили */
+	
+	left:15px;
+	top:450px;
+	}
+		.skr1{	position:absolute; /* добавили */
+	z-index:100;
+	left:0px;
+	top:5px;
+	
+	}
+	
+	.gran{
+	position:absolute; /* добавили */
+	z-index:100;
+	left:300px;
+	top:400px;}
+	
+		
+	.kryg2{
+	position:absolute; /* добавили */
+	top:13px;
+		left:15px;
+		border-radius: 100px; 
+		 position: absolute;
+	opacity: 0.6;
+	border-width:10px;
+    width:90px;
+    height:90px;
+    background: #A7E1A7;
+}
+	
+	
+	.yd2_zak{
+	position:absolute; /* добавили */
+	
+	left:115px;
+	top:450px;
+	
+	}
+.skr2{	
+
+	position:absolute; /* добавили */
+	z-index:100;
+	left:450px;
+	top:5px;}
+	
+	
+	
+	
+
+
+.kryg3 {
+	position:absolute; /* добавили */
+	top:20px;
+	left:315px;
+		
+		border-radius: 100px; 
+		 position: absolute;
+	opacity: 0.6;
+	border-width:10px;
+    width:90px;
+    height:90px;
+    background: #A7E1A7;
+}
+	
+	.yd3_zak{
+	position:absolute; /* добавили */
+	
+	left:215px;
+	top:450px;
+	}
+	
+.skr3{		
+position:absolute; /* добавили */
+	z-index:100;
+	left:600px;
+	top:5px;}
+	
+	
+	
+	
+	/* время перехода по умолчанию */
+:root {
+  --animation-time: 2s; 
+}
+.div1 {
+
+  width: 300px;
+  
+  height: 806px;
+
+  display: none;
+}
+.btn{z-index:10000;
+	width:120px;
+        height:120px;
+
+
+	}
+        .kryg1{
+	position:absolute; /* добавили */
+	top:13px;
+		left:15px;
+		border-radius: 100px; 
+		
+	opacity: 0.6;
+	border-width:10px;
+    width:90px;
+    height:90px;
+    background: #A7E1A7;
+}
+
+
+
+.yd1_zak{	position:absolute; /* добавили */
+	
+		left:300px;}
+
+
+.div2 {
+    
+    opacity: 0.9;
+    position:absolute; /* добавили */
+
+
+  width: 300px;
+  height: 300px;
+ 
+  display: none;
+}
+
+.knop{
+      position:absolute; /* добавили */
+	top:-350px;
+		left:13px;
+}
+
+@keyframes showDiv {
+  0%, 99% {
+   width: 0px;
+  }
+  100% {
+    width: 95px;
+  }
+}
+.nazv{
+    
+    text-shadow: 1px 1px 2px black, 0 0 1em red; /* Параметры тени */
+    color: white; /* Белый цвет текста */
+    font-size: 1.6em; /* Размер надписи */
+    
+}
+.ves{
+    
+    text-shadow: 1px 1px 2px black, 0 0 1em red; /* Параметры тени */
+    color: white; /* Белый цвет текста */
+    font-size: 1.6em; /* Размер надписи */
+    
+}
+
+.opis{
+    
+      width: 300px;
+  height: 300px;
+    
+    
+    text-shadow: 1px 1px 2px black, 0 0 1em red; /* Параметры тени */
+    color: white; /* Белый цвет текста */
+    font-size: 1.6em; /* Размер надписи */
+    
+}
+
+
+input[type="submit"] {
+   border: 1px solid #FF0000c; /*цвет рамки*/
+   border-radius: 50px; /*закругление углов (общее)*/
+background: #FFFFFF !important; /* желательно прописывать, так как в Chrome при сохранных данных оно может быть желтым*/
+   outline: none; /* удаляет обводку в браузерах хром(желтая) и сафари(синяя)*/
+   height: 35px; /*высота на свое усмотрение*/ 
+   width: 120px; /* ширина на свое усмотрение*/
+  text-shadow: 1px 1px 2px black, 0 0 1em red; /* Параметры тени */
+    color: white; /* Белый цвет текста */
+    font-size: 1.2em; /* Размер надписи */
+}
+.perep{
+
+   top:5px;
+    position:absolute;
+    left:0px;
+        text-shadow: 1px 1px 2px black, 0 0 1em red; /* Параметры тени */
+    color: white; /* Белый цвет текста */
+    font-size: 1.6em; /* Размер надписи */
+}
+
+.ost{
+
+   top:5px;
+    position:absolute;
+    left:185px;
+
+}
+ .sadok{
+    z-index:100;
+    top:770px;
+    position:relative;
+    left:0px;
+    }
+
+ .sa3{
+   top:335px;
+    position:absolute;
+    left:200px;
+    z-index:10;
+   }
+    
+            .fon_sa3{
+   border: 1px solid #000057;
+    opacity: 0.5;
+    background: #FFFFFF;
+   width:80px;
+    height: 80px;
+    top:320px;
+    position:absolute;
+    left:200px;}
+   
+      
+   .kol_sa3{
+   top:380px;
+   position:absolute;
+   left:270px;
+   z-index:10;}
+
+ .sa4{
+   top:235px;
+    position:absolute;
+    left:355px;
+    z-index:10;
+   }
+    
+            .fon_sa4{
+   border: 1px solid #000057;
+    opacity: 0.5;
+    background: #FFFFFF;
+   width:80px;
+    height: 80px;
+    top:320px;
+    position:absolute;
+    left:300px;}
+   
+      
+   .kol_sa4{
+   top:380px;
+   position:absolute;
+   left:370px;
+   z-index:10;}
+
+ .sa1{
+   top:450px;
+    position:absolute;
+    left:200px;
+    z-index:10;
+   }
+    
+            .fon_sa1{
+   border: 1px solid #000057;
+    opacity: 0.5;
+    background: #FFFFFF;
+   width:80px;
+    height: 80px;
+    top:420px;
+    position:absolute;
+    left:200px;}
+   
+      
+   .kol_sa1{
+   top:480px;
+   position:absolute;
+   left:270px;
+   z-index:10;}
+
+ .sa2{
+   top:450px;
+    position:absolute;
+    left:300px;
+    z-index:10;
+   }
+    
+            .fon_sa2{
+   border: 1px solid #000057;
+    opacity: 0.5;
+    background: #FFFFFF;
+   width:80px;
+    height: 80px;
+    top:420px;
+    position:absolute;
+    left:300px;}
+   
+      
+   .kol_sa2{
+   top:480px;
+   position:absolute;
+   left:370px;
+   z-index:10;}
+
+ .sa5{
+   top:235px;
+    position:absolute;
+    left:305px;
+    z-index:10;
+   }
+    
+            .fon_sa5{
+   border: 1px solid #000057;
+    opacity: 0.5;
+    background: #FFFFFF;
+   width:80px;
+    height: 80px;
+    top:220px;
+    position:absolute;
+    left:250px;}
+   
+      
+   .kol_sa5{
+   top:280px;
+   position:absolute;
+   left:320px;
+   z-index:10;}
+   
+   
+   
+   
+   
+.hide_block2 {
+  overflow: hidden;
+
+  width: 200px;
+  height: 0px;
+  animation: showDiv  <?php echo $lok_tame ?> forwards;
+}
+@keyframes showDiv {
+  0%, 99% {
+    height: 0px;
+  }
+  100% {
+    height: 120px;
+  }
+}
+
+
+
+
+
+
+
+
+  
+
+
+
+    

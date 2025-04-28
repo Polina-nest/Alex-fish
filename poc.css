@@ -1,0 +1,345 @@
+
+.Modal {
+    position: fixed;
+    display: none;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    background: rgba(0,0,0,0.7);
+    pointer-events: none;
+}
+.Modal:target {
+    display: flex;
+    pointer-events: auto;
+} 
+.Modal_Body {
+    position: relative;
+    z-index: 2;
+    display: block;
+    margin: auto;
+    padding: 15px;
+    background: #FFF;
+}
+.Modal2:target {
+    display: flex;
+    pointer-events: auto;
+} 
+.Modal2_Body {
+    position: relative;
+    z-index: 2;
+    display: block;
+    margin: auto;
+    padding: 15px;
+    background: #FFF;
+}
+.Modal3 {
+    position: fixed;
+    display: none;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    background: rgba(0,0,0,0.7);
+    pointer-events: none;
+}
+.Modal3:target {
+    display: flex;
+    pointer-events: auto;
+} 
+.Modal3_Body {
+    position: relative;
+    z-index: 2;
+    display: block;
+    margin: auto;
+    padding: 15px;
+    background: #FFF;
+}
+
+
+
+.Modal2 {
+    position: fixed;
+    display: none;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    background: rgba(0,0,0,0.7);
+    pointer-events: none;
+}
+
+
+.Modal4 {
+    position: fixed;
+    display: none;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    background: rgba(0,0,0,0.7);
+    pointer-events: none;
+}
+.Modal4:target {
+    display: flex;
+    pointer-events: auto;
+} 
+.Modal4_Body {
+    position: relative;
+    z-index: 2;
+    display: block;
+    margin: auto;
+    padding: 15px;
+    background: #FFF;
+}
+
+
+
+.Modal0{
+    position: fixed;
+    display: none;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    background: rgba(0,0,0,0.7);
+    pointer-events: none;
+}
+.Modal0:target {
+    display: flex;
+    pointer-events: auto;
+} 
+.Modal0_Body {
+    position: relative;
+    z-index: 2;
+    display: block;
+    margin: auto;
+    padding: 15px;
+    background: #FFF;
+}
+.Modal5{
+    position: fixed;
+    display: none;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    background: rgba(0,0,0,0.7);
+    pointer-events: none;
+}
+.Modal5:target {
+    display: flex;
+    pointer-events: auto;
+} 
+.Modal5_Body {
+    position: relative;
+    z-index: 2;
+    display: block;
+    margin: auto;
+    padding: 15px;
+    background: #FFF;
+}
+
+
+.Modal6{
+    position: fixed;
+    display: none;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    background: rgba(0,0,0,0.7);
+    pointer-events: none;
+}
+.Modal6:target {
+    display: flex;
+    pointer-events: auto;
+} 
+.Modal6_Body {
+    position: relative;
+    z-index: 2;
+    display: block;
+    margin: auto;
+    padding: 15px;
+    background: #FFF;
+}
+
+
+.Modal7{
+    position: fixed;
+    display: none;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    background: rgba(0,0,0,0.7);
+    pointer-events: none;
+}
+.Modal7:target {
+    display: flex;
+    pointer-events: auto;
+} 
+.Modal7_Body {
+    position: relative;
+    z-index: 2;
+    display: block;
+    margin: auto;
+    padding: 15px;
+    background: #FFF;
+}
+
+
+
+.Modal8{
+    position: fixed;
+    display: none;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    background: rgba(0,0,0,0.7);
+    pointer-events: none;
+}
+.Modal8:target {
+    display: flex;
+    pointer-events: auto;
+} 
+.Modal8_Body {
+    position: relative;
+    z-index: 2;
+    display: block;
+    margin: auto;
+    padding: 15px;
+    background: #FFF;
+}
+
+
+.Modal9{
+    position: fixed;
+    display: none;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    background: rgba(0,0,0,0.7);
+    pointer-events: none;
+}
+.Modal9:target {
+    display: flex;
+    pointer-events: auto;
+} 
+.Modal9_Body {
+    position: relative;
+    z-index: 2;
+    display: block;
+    margin: auto;
+    padding: 15px;
+    background: #FFF;
+}
+
+
+.Modal10{
+    position: fixed;
+    display: none;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    background: rgba(0,0,0,0.7);
+    pointer-events: none;
+}
+.Modal10:target {
+    display: flex;
+    pointer-events: auto;
+} 
+.Modal10_Body {
+    position: relative;
+    z-index: 2;
+    display: block;
+    margin: auto;
+    padding: 15px;
+    background: #FFF;
+}
+
+.Modal11{
+    position: fixed;
+    display: none;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    background: rgba(0,0,0,0.7);
+    pointer-events: none;
+}
+.Modal11:target {
+    display: flex;
+    pointer-events: auto;
+} 
+.Modal11_Body {
+    position: relative;
+    z-index: 2;
+    display: block;
+    margin: auto;
+    padding: 15px;
+    background: #FFF;
+}
+
+.Modal12{
+    position: fixed;
+    display: none;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    background: rgba(0,0,0,0.7);
+    pointer-events: none;
+}
+.Modal12:target {
+    display: flex;
+    pointer-events: auto;
+} 
+.Modal12_Body {
+    position: relative;
+    z-index: 2;
+    display: block;
+    margin: auto;
+    padding: 15px;
+    background: #FFF;
+}
+
+.Modal13{
+    position: fixed;
+    display: none;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+    background: rgba(0,0,0,0.7);
+    pointer-events: none;
+}
+.Modal13:target {
+    display: flex;
+    pointer-events: auto;
+} 
+.Modal13_Body {
+    position: relative;
+    z-index: 2;
+    display: block;
+    margin: auto;
+    padding: 15px;
+    background: #FFF;
+}

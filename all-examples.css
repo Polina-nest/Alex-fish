@@ -1,0 +1,9 @@
+
+
+/* ================ DOCK 2 ================ */
+#dockContainer { position: absolute; top: 180px; left: 6px; }
+#jqDock { position: relative; bottom: 60px; }
+#jqDock li { list-style: none; }
+.jqDockLabel { background: #333; color: #fff; padding: 30px 20px; -webkit-border-radius: 20px; -moz-border-radius: 20px; }
+
+/* ================ STACK #1 ================ */
